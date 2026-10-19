@@ -48,6 +48,14 @@ Code. You can keep your buddy and graveyard (the default) or delete them.
 
 ## What's new
 
+### 2.0.2
+
+- A **Restart** item in the tray menu.
+- Settings shows the game-balance number with the version, like `v2.0.2.b2`.
+- Safer updates: each installer's signature is now tied to its version, and Install now always installs the newest
+  release.
+- Uninstalling on a PC that never ran Claude Buddy no longer leaves an empty folder behind.
+
 ### 2.0.1
 
 The About link in Settings no longer runs into the Location row on a wide card, and the whole
