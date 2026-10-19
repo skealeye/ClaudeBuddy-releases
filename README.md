@@ -48,6 +48,11 @@ Code. You can keep your buddy and graveyard (the default) or delete them.
 
 ## What's new
 
+### 2.0.1
+
+The About link in Settings no longer runs into the Location row on a wide card, and the whole
+line is easy to click.
+
 ### 2.0.0
 
 The first public release: a one-click installer, automatic updates, and a buddy that lives on your Claude Code
