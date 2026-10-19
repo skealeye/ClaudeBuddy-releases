@@ -1,0 +1,31 @@
+CLAUDE BUDDY - END USER LICENCE AGREEMENT (FREEWARE)
+
+Copyright (c) 2026 Sean Kealey. All rights reserved.
+
+Claude Buddy is an unofficial fan project. It is not affiliated with, endorsed by, or sponsored by Anthropic.
+Claude is a trademark of Anthropic.
+
+By installing or using Claude Buddy you agree to these terms.
+
+1. Free to use. You may install and use Claude Buddy on any number of your own computers at no charge.
+
+2. Sharing. You may give the unmodified installer (ClaudeBuddy-Setup-<version>.exe) to others, free of charge.
+   You may not sell it, bundle it with a paid product, or charge for access to it.
+
+3. No reverse engineering. You may not reverse engineer, decompile, disassemble or modify Claude Buddy, except
+   where the law allows it despite this term, and except as the open-source licences in section 4 allow.
+
+4. Open-source components. Claude Buddy includes open-source components under their own licences, listed in
+   THIRD-PARTY-NOTICES.txt. Nothing in this agreement limits your rights under those licences. In particular, the
+   Qt libraries (LGPL v3) ship as separate files in the install folder, and you may replace them.
+
+5. Updates. Claude Buddy checks for, downloads and installs updates as its README describes. You can turn
+   automatic updates off in its Settings.
+
+6. No warranty. Claude Buddy is provided "as is", without warranty of any kind, express or implied, including the
+   warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+7. No liability. In no event shall the author be liable for any claim, damages or other liability arising from,
+   out of or in connection with Claude Buddy or its use.
+
+8. Termination. This licence ends automatically if you break its terms; you must then uninstall Claude Buddy.
