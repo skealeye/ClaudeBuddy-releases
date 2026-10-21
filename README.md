@@ -56,6 +56,10 @@ Every buddy is rolled when its egg is laid, and no two grow up quite the same:
   habit (late nights, marathon coding sessions, a big spending day) and your buddy picks it up too, with its own
   look until it wears off.
 
+**Quiet hours** (23:00–08:00 by default; change them in Settings) slow hunger to a quarter, so your buddy won't
+starve while you sleep. The catch: tokens spent during quiet hours earn only a quarter of the XP. Going away for a
+while? Turn on **Daycare** to pause hunger, aging and XP altogether.
+
 ## Requirements
 
 - Windows 10 or 11
@@ -89,6 +93,14 @@ Windows Settings → Apps → Installed apps → **Claude Buddy** → Uninstall.
 Code. You can keep your buddy and graveyard (the default) or delete them.
 
 ## What's new
+
+### 2.0.3
+
+- Quiet hours now have a catch: tokens spent during them earn only a quarter of the XP.
+- Settings has separate **Quiet from** and **Quiet until** rows, so you can set when quiet hours end, not just when
+  they start.
+- A tidier Settings page: the Water estimate and Status title rows are gone (the status title under your buddy is
+  always on).
 
 ### 2.0.2
 
