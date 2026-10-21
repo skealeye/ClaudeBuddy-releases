@@ -3,16 +3,58 @@
 [![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/seankealey)
 
 A little pixel-art desktop pet for Windows that lives on your **Claude Code** usage. It hatches from an egg, eats the
-tokens you spend, levels up through seven life stages, and gets hungry if you leave it alone for too long.
+tokens you spend, levels up through seven life stages, and gets hungry if you leave it alone for too long. Forget
+about it and it starves, dies (dramatically) and moves into the graveyard, where it will be remembered forever.
+Mostly by you. Mostly with guilt.
 
 ![Claude Buddy growing up](images/hero.gif)
 
 It also keeps an eye on things while you work: tokens and cost today, how much of your 5-hour and weekly limits
 you've used, and a pixel "!" when a Claude Code session is waiting on you (click it to jump to that terminal).
 
+## What you get
+
+A small card that sits in the corner of your screen, on top of your other windows. Drag it sideways (or use the arrows
+and dots) to flip between its five pages:
+
+![A tour of the card's five pages](images/tour.gif)
+
+- **Buddy**: your pet, how full it is and its level, plus your 5-hour and weekly limits (and when they reset), today's
+  tokens and cost, and a rough water estimate for the day.
+- **Sessions**: every Claude Code session running right now, marked **Blocked**, **Working** or **Idle**. Click one to
+  jump straight to its terminal.
+- **Stats**: tokens and cost for today, the last 7 days and all time, your cache efficiency, whether you're on pace to
+  stay under the 5-hour limit, tokens by hour, and your busiest projects.
+- **Settings**: sounds, quiet hours, alerts and reminders, live weather on the buddy's stage, start with Windows, and
+  the one-click **Connect** to Claude Code.
+- **Graveyard**: every buddy you've raised, and how long it lived.
+
+![All five pages side by side (example data)](images/app-pages.png)
+
+### Never miss a session that's waiting on you
+
+When Claude Code stops to ask you something (a permission, a question, a plan to approve), your buddy holds up a
+sign and the session shows as **Blocked**. Click the buddy to jump to that terminal. If you're away, a gentle chime
+reminds you after a few minutes (you choose when, or turn it off).
+
+![The buddy holding up a sign: a session needs you](images/alert.gif)
+
+## Your buddy
+
 ![The classic buddy at every life stage](images/common-characters.png)
 
-Every buddy is rolled when its egg is laid. Some buddies are… rarer than others. You'll know one when you see it.
+Every buddy is rolled when its egg is laid, and no two grow up quite the same:
+
+- **Random characters and costumes.** Each egg rolls its own creature, colour and looks. Every time it evolves it
+  might sprout a new hairdo, a hat or a fancy outfit. Some buddies are… rarer than others. You'll know one when you
+  see it.
+- **Live weather.** The stage behind your buddy shows your real local weather: sun, night, clouds, rain, snow or a
+  full-on storm. Now and then the sky puts on a show: a shooting star, a rainbow after the rain, an aurora on a
+  freezing night, or a lightning strike close enough to make your buddy jump.
+- **Special events.** Halloween, Christmas, New Year, Valentine's, St Patrick's, Easter, the 4th of July and
+  Thanksgiving dress up the stage and put a hat on your buddy, with the odd rare surprise on the day. Keep up a
+  habit (late nights, marathon coding sessions, a big spending day) and your buddy picks it up too, with its own
+  look until it wears off.
 
 ## Requirements
 
