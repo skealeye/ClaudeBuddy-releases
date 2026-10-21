@@ -94,6 +94,11 @@ Code. You can keep your buddy and graveyard (the default) or delete them.
 
 ## What's new
 
+### 2.0.4
+
+- **Start with Windows** works again. Since 2.0.0 the app could rewrite its startup entry to a file that doesn't
+  exist, so it silently stopped starting with Windows. The tray's **Restart** is fixed for the same reason.
+
 ### 2.0.3
 
 - Quiet hours now have a catch: tokens spent during them earn only a quarter of the XP.
