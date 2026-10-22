@@ -94,6 +94,12 @@ Code. You can keep your buddy and graveyard (the default) or delete them.
 
 ## What's new
 
+### 2.0.5
+
+- Habit traits now rest after they end: Zen and Night Owl can't be earned again for 3 days, Tycoon for 2,
+  Hacker and Overclocked for 1. Before, a run of calm days kept Zen on for good.
+- Fixed a rare crash that could close Claude Buddy without a word, usually after it had been running for hours.
+
 ### 2.0.4
 
 - **Start with Windows** works again. Since 2.0.0 the app could rewrite its startup entry to a file that doesn't
