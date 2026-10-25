@@ -94,6 +94,11 @@ Code. You can keep your buddy and graveyard (the default) or delete them.
 
 ## What's new
 
+### 2.0.6
+
+- The 5-hour and weekly limits always show when they reset. When the reading is a few minutes old (Claude Code
+  doesn't send new numbers while subagents are working), the percent shows as `~42%` instead of hiding the reset time.
+
 ### 2.0.5
 
 - Habit traits now rest after they end: Zen and Night Owl can't be earned again for 3 days, Tycoon for 2,
